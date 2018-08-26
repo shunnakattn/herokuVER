@@ -74,6 +74,7 @@
                   <div><h3><a href="#"><img src="img/hoge1.jpg" width="100%" height="100%"></a></h3></div>
                   <div><h3><a href="#"><img src="img/hoge2.jpg" width="100%" height="100%"></a></h3></div>
                   <div><h3><a href="#"><img src="img/hoge3.jpg" width="100%" height="100%"></a></h3></div>
+                  <div><h3><a href="#"><img src="img/hoge4S.jpg" width="100%" height="100%"></a></h3></div>
                 </div>
               </div><!-- /.slick -->
               <div class="mt-3">
